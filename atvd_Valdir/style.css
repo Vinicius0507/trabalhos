@@ -1,0 +1,18 @@
+
+.talvez{
+    display: flex;
+    justify-content: center;
+    margin:10px;
+    margin-top: -30px;
+    
+}
+h3{
+    margin-left: 10%;
+}
+
+.card-body{
+    display: flex;
+    justify-content: center;
+    margin:10px;
+    margin-top: -30px;
+}
